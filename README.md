@@ -1,2 +1,6 @@
 # TheHive
 #
+/-\
+| |
+\_/
+its octagon
